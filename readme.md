@@ -11,7 +11,7 @@
 
 - 📧 You can reach me at **philsmithies@gmail.com**
 
-- 📥 I'm also over on LinkendIn at **https://linkedin.com/in/philsmithies**
+- 📥 I'm also over on LinkendIn at **https://www.linkedin.com/in/phil-smithies**
 
 - 👀 Porfolio **In Progress...**
 <br>
