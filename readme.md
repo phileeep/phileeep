@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently on a Full Stack Bootcamp at [Makers Academy](https://makers.tech)
 
-- ⚡ Fun fact **I like to run marathons sometimes.**
+- ⚡ Fun fact - **I like to run marathons sometimes.**
 
 - 📧 You can reach me at **philsmithies@gmail.com**
 
