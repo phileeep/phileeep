@@ -3,13 +3,13 @@
 
 - ✂️ I'm currently working on a [tech test to assess code quality and TDD.](https://github.com/phileeep/banking-tech-test)
 
-- 📧 You can reach me at **philsmithies@gmail.com**
-
 - 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/phileeep/acebook-team-smiley-face)
 
 - 🌱 I’m currently on a Full Stack Bootcamp at [Makers Academy](https://makers.tech)
 
 - ⚡ Fun fact **I like to run marathons sometimes.**
+
+- 📧 You can reach me at **philsmithies@gmail.com**
 
 - 👀 Porfolio **In Progress...**
 
