@@ -30,8 +30,8 @@
     </a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phileeep&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phileeep" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phileeep&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="phileeep" /></p>
-
+ <br/>
+    <a href="https://github.com/Phileeep/github-readme-stats"><img alt="Phileeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phileeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+  <a href="https://github.com/Phileeep/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phileeep&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
