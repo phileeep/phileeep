@@ -26,7 +26,7 @@
 </p>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test)](https://github.com/phileeep/banking-tech-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=gotham)](https://github.com/phileeep/banking-tech-test)
 
 
 <p align="center">
