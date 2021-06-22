@@ -15,12 +15,12 @@
 <br/>
 
 ## 🚀 Projects:
-
+<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/phileeep/shuttr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=dark)](https://github.com/phileeep/banking-tech-test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=dark)](https://github.com/phileeep/acebook-team-smiley-face)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/phileeep/etchasketch)
-
+</div>
 
 <br/>
 
