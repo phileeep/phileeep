@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">A Full Stack Dev in the Making. Makers Grad June 2021 🌱</h3>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/phil-smithies)
-
-- ✂️ I'm currently working on a [Shuttr](https://github.com/phileeep/banking-tech-test)
+- ✂️ I'm currently working on [Shuttr](https://github.com/phileeep/banking-tech-test)- a location finding and photo sharing social media network. 
 - 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/phileeep/acebook-team-smiley-face)
 - 🌱 I’m currently on a Full Stack Bootcamp at [Makers Academy](https://makers.tech)
 - ⚡ Fun fact - **I like to run marathons sometimes.**
 - 📧 You can reach me at **philsmithies@gmail.com**
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/phil-smithies)
 - 👀 Porfolio **In Progress...**
 
 ## 🚀 Projects:
