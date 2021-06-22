@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">A Full Stack Dev in the Making. Makers Grad June 2021 🌱</h3>
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/phil-smithies)
 
 - ✂️ I'm currently working on a [Shuttr](https://github.com/phileeep/banking-tech-test)
 - 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/phileeep/acebook-team-smiley-face)
