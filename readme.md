@@ -26,12 +26,10 @@
 </p>
 <br>
 
-<div align="center">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=gotham)](https://github.com/phileeep/shuttr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=gotham)](https://github.com/phileeep/banking-tech-test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=gotham)](https://github.com/phileeep/acebook-team-smiley-face)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=gotham)](https://github.com/phileeep/etchasketch)
-</div>
 
 <p align="center">
     <a href="https://github.com/Phileeep/github-readme-streak-stats">
