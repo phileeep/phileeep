@@ -11,6 +11,14 @@
 - 📥 I'm also over on LinkendIn at **https://www.linkedin.com/in/phil-smithies**
 - 👀 Porfolio **In Progress...**
 
+## 🚀 Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/phileeep/shuttr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=dark)](https://github.com/phileeep/banking-tech-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=dark)](https://github.com/phileeep/acebook-team-smiley-face)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/phileeep/etchasketch)
+
+
 ## :hammer: Languages and Tools:
 
 <p align="left"> 
@@ -26,18 +34,6 @@
 </p>
 <br>
 
-## 🚀 Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/phileeep/shuttr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=dark)](https://github.com/phileeep/banking-tech-test)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=dark)](https://github.com/phileeep/acebook-team-smiley-face)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/phileeep/etchasketch)
-
-<p align="center">
-    <a href="https://github.com/Phileeep/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phil Smithies' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phileeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
  ## 📊 My Github Stats
 
@@ -55,3 +51,10 @@
 
 <br/>
 <br/>
+
+
+<p align="center">
+    <a href="https://github.com/Phileeep/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phil Smithies' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phileeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
