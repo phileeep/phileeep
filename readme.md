@@ -11,7 +11,8 @@
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies-88484a54)
 - 👀 Porfolio **In Progress...**
 
-  <br/>
+
+
 ## 🚀 Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/phileeep/shuttr)
@@ -20,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/phileeep/etchasketch)
 
 
-  <br/>
+
 ## :hammer: Languages and Tools:
 
 <p align="left"> 
