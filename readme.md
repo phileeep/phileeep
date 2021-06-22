@@ -26,6 +26,9 @@
 </p>
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test)](https://github.com/phileeep/banking-tech-test)
+
+
 <p align="center">
     <a href="https://github.com/Phileeep/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phil Smithies' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phileeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -44,7 +47,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Phileeep/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phileeep&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Phileeep/github-readme-activity-graph"><img alt="Phileeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phileeep&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
