@@ -15,9 +15,9 @@
 
 <p align="left"> 
    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> </a>
-      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
        <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
    <img style="padding-right:8px;" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
@@ -26,11 +26,12 @@
 </p>
 <br>
 
-
+<p align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=gotham)](https://github.com/phileeep/shuttr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=gotham)](https://github.com/phileeep/banking-tech-test)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=gotham)](https://github.com/phileeep/acebook-team-smiley-face)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=gotham)](https://github.com/phileeep/etchasketch)
-
+</p>
 
 <p align="center">
     <a href="https://github.com/Phileeep/github-readme-streak-stats">
