@@ -8,7 +8,7 @@
 - 🌱 I’m currently on a Full Stack Bootcamp at [Makers Academy](https://makers.tech)
 - ⚡ Fun fact - **I like to run marathons sometimes.**
 - 📧 You can reach me at **philsmithies@gmail.com**
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/phil-smithies)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies-88484a54)
 - 👀 Porfolio **In Progress...**
 
 ## 🚀 Projects:
