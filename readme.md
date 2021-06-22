@@ -6,7 +6,7 @@
 - ✂️ I'm currently working on [Shuttr](https://github.com/phileeep/banking-tech-test) - a location finding and photo sharing social media network. 
 - 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/phileeep/acebook-team-smiley-face)
 - 🌱 New graduate of [Makers Academy](https://makers.tech)
-- ⚡ Fun fact - **I like to run marathons sometimes.**
+- ⚡ Fun fact - **I like to run marathons.**
 - 📧 You can reach me at **philsmithies@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies-88484a54)
 - 👀 Porfolio **In Progress...**
