@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">A Full Stack Dev in the Making. Makers Grad June 2021 🌱</h3>
 
-- ✂️ I'm currently working on [Shuttr](https://github.com/phileeep/banking-tech-test) - a location finding and photo sharing social media network. 
-- 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/phileeep/acebook-team-smiley-face)
+- ✂️ I'm currently working on [Shuttr](https://github.com/philsmithies/banking-tech-test) - a location finding and photo sharing social media network. 
+- 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/philsmithies/acebook-team-smiley-face)
 - 🌱 New graduate of [Makers Academy](https://makers.tech)
 - ⚡ Fun fact - **I like to run marathons.**
 - 📧 You can reach me at **philsmithies@gmail.com**
@@ -15,10 +15,10 @@
 <br/>
 
 ## 🚀 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/philsmithies/shuttr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=dark)](https://github.com/philsmithies/banking-tech-test)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=dark)](https://github.com/philsmithies/acebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/philsmithies/etchasketch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&theme=dark)](https://github.com/philsmithies/shuttr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=banking-tech-test&theme=dark)](https://github.com/philsmithies/banking-tech-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook&theme=dark)](https://github.com/philsmithies/acebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=etchasketch&theme=dark)](https://github.com/philsmithies/etchasketch)
 
 <br/>
 
@@ -41,8 +41,8 @@
  ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Phileeep/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Phileeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Phileeep/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phileeep&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/philsmithies/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=philsmithies&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/philsmithies/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philsmithies&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -50,14 +50,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Phileeep/github-readme-activity-graph"><img alt="Phileeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phileeep&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/philsmithies/github-readme-activity-graph"><img alt="philsmithies's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=philsmithies&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 
 <p align="center">
-    <a href="https://github.com/Phileeep/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phil Smithies' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phileeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/philsmithies/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phil Smithies' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=philsmithies&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
