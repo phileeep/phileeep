@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi 👋, I'm Phil</h1>
-<h3 align="center">A Full Stack Dev in the Making. Makers Grad June 2021 🌱</h3>
+<h3 align="center">Full Stack Dev. Makers Grad June 2021 🌱</h3>
 
 - ✂️ I'm currently working on [Shuttr](https://github.com/philsmithies/banking-tech-test) - a location finding and photo sharing social media network. 
 - 🔨 I’ve just worked on [building a clone of a popular social media site](https://github.com/philsmithies/acebook-team-smiley-face)
