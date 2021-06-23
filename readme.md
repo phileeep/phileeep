@@ -15,10 +15,10 @@
 <br/>
 
 ## 🚀 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/phileeep/shuttr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=dark)](https://github.com/phileeep/banking-tech-test)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=dark)](https://github.com/phileeep/acebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/phileeep/etchasketch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=shuttr&theme=dark)](https://github.com/philsmithies/shuttr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=banking-tech-test&theme=dark)](https://github.com/philsmithies/banking-tech-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=acebook-team-smiley-face&theme=dark)](https://github.com/philsmithies/acebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phileeep&repo=etchasketch&theme=dark)](https://github.com/philsmithies/etchasketch)
 
 <br/>
 
