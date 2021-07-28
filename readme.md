@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">Full Stack Dev. Makers Grad June 2021 🌱</h3>
 
-- ✂️ I'm currently working on [Shuttr](https://github.com/philsmithies/banking-tech-test) - a location finding and photo sharing social media network. 
+- ✂️ I'm currently working on [A CV Generator](https://github.com/philsmithies/cv-generator) - a CV generator built in React.
 - 🔨  I’ve just worked on [building a clone of a popular social media site](https://github.com/philsmithies/acebook-team-smiley-face)
 - 🌱  New graduate of [Makers Academy](https://makers.tech)
 - ⚡  Fun fact - **I like long distance running.**
