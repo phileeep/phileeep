@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&theme=dark)](https://github.com/philsmithies/shuttr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=banking-tech-test&theme=dark)](https://github.com/philsmithies/banking-tech-test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook&theme=dark)](https://github.com/philsmithies/acebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=etchasketch&theme=dark)](https://github.com/philsmithies/etchasketch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=cv-generator&theme=dark)](https://github.com/philsmithies/cv-generator)
 
 <br/>
 
