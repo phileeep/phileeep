@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">Full Stack Dev. Makers Grad June 2021 🌱</h3>
 
-- ✂️&nbsp; I'm currently working on [A Twitter Clone In React and Node](https://github.com/philsmithies/chitter-react)
-- 🔨&nbsp; I’ve just worked on [a photo location discover application](https://github.com/philsmithies/shuttr)
+- ✂️&nbsp; I'm currently working on [a Twitter Clone In React and Node JS](https://github.com/philsmithies/chitter-react)
+- 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
 - 🌱 &nbsp; Fresh graduate of [Makers Academy](https://makers.tech)
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies)
