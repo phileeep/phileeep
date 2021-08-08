@@ -2,14 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">Full Stack Dev. Makers Grad June 2021 🌱</h3>
-<pre>
-- ✂️ I'm currently working on [A Twitter Clone In React and Node](https://github.com/philsmithies/chitter-react)
-- 🔨  I’ve just worked on [a photo location discover application](https://github.com/philsmithies/shuttr)
-- 🌱  Fresh graduate of [Makers Academy](https://makers.tech)
-- 📧  You can reach me at **philsmithies@gmail.com**
+
+- ✂️&nbsp; I'm currently working on [A Twitter Clone In React and Node](https://github.com/philsmithies/chitter-react)
+- 🔨&nbsp; I’ve just worked on [a photo location discover application](https://github.com/philsmithies/shuttr)
+- 🌱 &nbsp; Fresh graduate of [Makers Academy](https://makers.tech)
+- 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies)
-- 👀  Porfolio **In Progress...**
-</pre>
+- 👀 &nbsp; Porfolio **In Progress...**
 
 
 <br/>
