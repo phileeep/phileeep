@@ -2,20 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">Full Stack Dev. Makers Grad June 2021 🌱</h3>
-
+<pre>
 - ✂️ I'm currently working on [A Twitter Clone In React and Node](https://github.com/philsmithies/chitter-react)
 - 🔨  I’ve just worked on [a photo location discover application](https://github.com/philsmithies/shuttr)
 - 🌱  Fresh graduate of [Makers Academy](https://makers.tech)
 - 📧  You can reach me at **philsmithies@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies)
 - 👀  Porfolio **In Progress...**
+</pre>
 
 
 <br/>
 
 ## 🚀 Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&theme=dark)](https://github.com/philsmithies/shuttr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-react&theme=dark)](https://github.com/philsmithies/banking-tech-test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-react&theme=dark)](https://github.com/philsmithies/chitter-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook&theme=dark)](https://github.com/philsmithies/acebook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=cv-generator&theme=dark)](https://github.com/philsmithies/cv-generator)
 
