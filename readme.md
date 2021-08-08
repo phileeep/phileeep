@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">Full Stack Dev. Makers Grad June 2021 🌱</h3>
 
-- ✂️ I'm currently working on [Learning Node](https://github.com/philsmithies/basicinformationsite)
-- 🔨  I’ve just worked on [building a clone of a popular social media site](https://github.com/philsmithies/acebook-team-smiley-face)
-- 🌱  New graduate of [Makers Academy](https://makers.tech)
-- ⚡  Fun fact - **I like long distance running.**
+- ✂️ I'm currently working on [A Twitter Clone In React and Node](https://github.com/philsmithies/chitter-react)
+- 🔨  I’ve just worked on [a photo location discover application](https://github.com/philsmithies/shuttr)
+- 🌱  Fresh graduate of [Makers Academy](https://makers.tech)
 - 📧  You can reach me at **philsmithies@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies)
 - 👀  Porfolio **In Progress...**
