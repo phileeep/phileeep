@@ -26,8 +26,11 @@
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 - 👀 &nbsp; Porfolio **In Progress...**
 
+<br>
+
 ## My Goals
 - To learn mobile app development in React Native. 
+<br>
 
 ## 📥 Project Highlights:
 
@@ -41,18 +44,6 @@
 <br/>
 
 ## :hammer: Languages and Tools:
-
-<p align="left"> 
-   <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-       <a style="padding-right:8px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-   <img style="padding-right:8px;" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
-   <img style="padding-right:8px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_logo_icon_146391.png" width="48" height="48"/>
-    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48"/> </a>
-</p>
 <br>
 
 <div align="left">
