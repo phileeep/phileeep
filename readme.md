@@ -1,7 +1,6 @@
-<h1>Hi, I'm Phil!</h1>
-<h3>Full Stack Dev. Makers Academy Grad. 🌱</h3>
+## Hi, I'm Phil!
 
-## My Profiles
+<div align="left">
 
  <a href="https://uk.linkedin.com/in/phil-smithies">
   <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -11,9 +10,15 @@
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/philsmithies?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 </a>
 
+<a href="mailto:philsmithies@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.codewars.com/users/phileeep">
   <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
+
+## Full Stack Dev. Makers Academy Grad. 🌱 
 
 - ✂️&nbsp; I'm currently working on [a Twitter Clone In React and Node JS](https://github.com/philsmithies/chitter-react)
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
@@ -24,7 +29,7 @@
 
 <br/>
 
-## 🚀 Projects:
+## 🖥 Projects:
 
 <p align="left">
   <a href=https://github.com/philsmithies/shuttr><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Shuttr"></a>
@@ -108,7 +113,7 @@
   </tbody>
 </table>
 
-## Github Streak
+## 🚀 Github Streak 
 
 <p align="center">
     <a href="https://github.com/philsmithies/github-readme-streak-stats">
