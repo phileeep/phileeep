@@ -22,13 +22,13 @@
 
 - ✂️&nbsp; I'm currently working on [a Twitter Clone In React and Node JS](https://github.com/philsmithies/chitter-react)
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
-- 🌱 &nbsp; Fresh graduate of the full stack course at [Makers Academy](https://makers.tech), my final project can be viewed: [here](https://github.com/philsmithies/shuttr) 
+- 🌱 &nbsp; Fresh graduate of the full stack course at [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 
 <br>
 
 ## My Goals
-- To learn mobile app development in React Native. 
+- ✏️ To further my knowledge of React and explore Mobile app Development in React Native. 
 <br>
 
 ## 📥 Project Highlights:
