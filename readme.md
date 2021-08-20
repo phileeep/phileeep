@@ -1,4 +1,4 @@
-## Hi, I'm Phil!
+## Hey, I'm Phil. Full Stack Dev. Makers Academy Grad. 🌱 
 
 <div align="left">
 
@@ -18,23 +18,25 @@
   <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
 
-## Full Stack Dev. Makers Academy Grad. 🌱 
+## About Me
 
 - ✂️&nbsp; I'm currently working on [a Twitter Clone In React and Node JS](https://github.com/philsmithies/chitter-react)
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
-- 🌱 &nbsp; Fresh graduate of [Makers Academy](https://makers.tech)
+- 🌱 &nbsp; Fresh graduate of the full stack course at [Makers Academy](https://makers.tech), my final project can be viewed: [here](https://github.com/philsmithies/shuttr) 
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phil-smithies)
 - 👀 &nbsp; Porfolio **In Progress...**
 
 <br/>
 
-## 🖥 Projects:
+## My Goals
+- To learn mobile app development in React Native. 
+
+## 📥 Project Highlights:
 
 <p align="left">
   <a href=https://github.com/philsmithies/shuttr><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Shuttr"></a>
   <a href=https://github.com/philsmithies/chitter-react><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-react&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Chitter"></a>
-  <a href=https://github.com/philsmithies/acebook><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook-react&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Acebook"></a>
+  <a href=https://github.com/philsmithies/acebook><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Acebook"></a>
   <a href=https://github.com/philsmithies/cv-generator><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=cv-generator&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="CV generator"></a>
 </p>
 
@@ -113,7 +115,7 @@
   </tbody>
 </table>
 
-## 🚀 Github Streak 
+## :zap: Github Streak 
 
 <p align="center">
     <a href="https://github.com/philsmithies/github-readme-streak-stats">
