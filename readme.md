@@ -24,6 +24,7 @@
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
 - 🌱 &nbsp; Fresh graduate of the full stack course at [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
+- 📝 &nbsp; [My CV](https://drive.google.com/file/d/1sbZyX-aGUws3y-nExIQcRe4MOxBkIYhM/view)
 
 <br>
 
