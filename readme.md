@@ -25,7 +25,7 @@
 - 🌱 &nbsp; Fresh graduate of the full stack course at [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 - 📝 &nbsp; [My CV](https://drive.google.com/file/d/1sbj8XjFfYn_d2ElA-CJsVHZiq7XwA6sG/view?usp=sharing)
-- 📣 &nbsp; [Portfolio](https://www.philsmithies.dev)
+- 👤 &nbsp; [Portfolio](https://www.philsmithies.dev)
 
 <br>
 
