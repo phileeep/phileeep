@@ -40,6 +40,7 @@
   <a href=https://github.com/philsmithies/acebook-team-smiley-face><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook-team-smiley-face&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Acebook"></a>
   <a href=https://github.com/philsmithies/cv-generator><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=cv-generator&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="CV generator"></a>
  <a href=https://github.com/philsmithies/portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
+  <a href=https://github.com/philsmithies/clockapp><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=clockapp&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Clock App"></a>
 </p>
 
 <br/>
