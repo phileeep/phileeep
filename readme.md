@@ -124,7 +124,7 @@
   </tbody>
 </table>
 
-
+<!-- 
 ## Github Stats
 <p align="center">
   <br/>
@@ -139,3 +139,4 @@
 <a href="https://github.com/philsmithies/github-readme-activity-graph"><img alt="philsmithies's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=philsmithies&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
 <br />
+ -->
