@@ -1,4 +1,5 @@
 ## Hey, I'm Phil. Full Stack Dev. Makers Academy Grad. 🌱 
+###  Currently looking for remote collaboration opportunities throughout the UK and Europe.
 
 <div align="left">
 
