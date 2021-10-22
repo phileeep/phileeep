@@ -81,7 +81,7 @@
     <tr>
       <td style="vertical-align: top">
         <ul>
-          <li>Javascript</li>
+          <li>Javascript (ES6)</li>
           <li>Ruby</li>
           <li>HTML5</li>
           <li>CSS</li>
@@ -90,6 +90,7 @@
       <td style="vertical-align: top">
         <ul>
           <li>React</li>
+          <li>Next.js</li>
           <li>Node.js</li>
           <li>Express</li>
           <li>Ruby on Rails</li>
