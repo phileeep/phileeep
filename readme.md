@@ -30,6 +30,7 @@
 <br>
 
 ## My Goals
+- ✏️ Convert my Node applications into Next.JS. 
 - ✏️ To further my knowledge of React and explore Mobile app Development in React Native. 
 <br>
 
