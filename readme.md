@@ -21,9 +21,9 @@
 
 ## About Me
 
-- ✂️&nbsp; I'm currently working on [a Twitter Clone In React and Node JS](https://github.com/philsmithies/chitter-react)
+- ✂️&nbsp; I'm currently working on [the full stack open curriculum](https://github.com/philsmithies/fullstackopen)
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
-- 🌱 &nbsp; Fresh graduate of the full stack course at [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
+- 🌱 &nbsp; Makers Alumni [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 - 👤 &nbsp; [Portfolio](https://www.philsmithies.dev)
 
@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href=https://github.com/philsmithies/shuttr><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Shuttr"></a>
-  <a href=https://github.com/philsmithies/chitter-react><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-react&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Chitter"></a>
+  <a href=https://github.com/philsmithies/chitter-next><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-next&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Chitter"></a>
   <a href=https://github.com/philsmithies/acebook-team-smiley-face><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook-team-smiley-face&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Acebook"></a>
   <a href=https://github.com/philsmithies/fullstackopen><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=fullstackopen&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="FSO"></a>
  <a href=https://github.com/philsmithies/portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
