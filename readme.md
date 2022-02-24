@@ -1,5 +1,6 @@
-## Hey, I'm Phil. Full Stack Dev. Makers Academy Grad. 🌱 
-###  Currently looking for remote collaboration opportunities throughout the UK and Europe.
+## Hey, I'm Phil. Full Stack Dev. React, Typescript, GraphQl. 🌱 
+### Currently looking for remote collaboration opportunities throughout the UK and Europe.
+#### Makers Academy Grad.
 
 <div align="left">
 
@@ -21,7 +22,7 @@
 
 ## About Me
 
-- ✂️&nbsp; I'm currently working on [the full stack open curriculum](https://github.com/philsmithies/fullstackopen)
+- ✂️&nbsp; I'm currently working on [building a illustrators portfolio using Typescript](https://github.com/philsmithies/maelys_portfolio)
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
 - 🌱 &nbsp; Makers Alumni [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
 - 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
@@ -30,8 +31,9 @@
 <br>
 
 ## My Goals
-- 📥 Convert my Node.JS applications into Next.JS full stack applications. 
-- ✏️ To further my knowledge of React and explore Mobile app Development in React Native. 
+- 📥 Build a Shopify application using Next.js and Typescript. 
+- Dabble with Svelte & Vue.js
+
 <br>
 
 ## 📥 Project Highlights:
@@ -39,7 +41,7 @@
 <p align="left">
   <a href=https://github.com/philsmithies/shuttr><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Shuttr"></a>
   <a href=https://github.com/philsmithies/chitter-next><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-next&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Chitter"></a>
-  <a href=https://github.com/philsmithies/acebook-team-smiley-face><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=acebook-team-smiley-face&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Acebook"></a>
+  <a href=https://github.com/philsmithies/maelys_portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=maelys_portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Acebook"></a>
   <a href=https://github.com/philsmithies/fullstackopen><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=fullstackopen&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="FSO"></a>
  <a href=https://github.com/philsmithies/portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
   <a href=https://github.com/philsmithies/clockapp><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=clockapp&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Clock App"></a>
@@ -83,7 +85,7 @@
       <td style="vertical-align: top">
         <ul>
           <li>Javascript (ES6)</li>
-          <li>Ruby</li>
+          <li>Typescript</li>
           <li>HTML5</li>
           <li>CSS</li>
         </ul>
@@ -95,7 +97,6 @@
           <li>Node.js</li>
           <li>Express</li>
           <li>Ruby on Rails</li>
-          <li>Sinatra</li>
           <li>MongoDB</li>
           <li>PostgreSQL</li>
           <li>Git</li>
