@@ -1,6 +1,6 @@
-## Hey, I'm Phil. Full Stack Dev. React, Typescript, GraphQl. 🌱 
+## Hey, I'm Phil. Full Stack Dev. React, Typescript, GraphQL. 🌱 
 ### Currently looking for remote collaboration opportunities throughout the UK and Europe.
-#### Makers Academy Grad.
+### Makers Academy Grad.
 
 <div align="left">
 
