@@ -31,7 +31,7 @@
 <br>
 
 ## My Goals
-- 📥 Build a Shopify application using Next.js and Typescript. 
+~~ - 📥 Build a Shopify application using Next.js and Typescript. ~~ 
 - Dabble with Svelte & Vue.js
 
 <br>
