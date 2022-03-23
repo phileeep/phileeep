@@ -32,8 +32,7 @@
 
 ## My Goals
 - 📥 ~~Build a Shopify application using Next.js and Typescript.~~ 
-- Dabble with Svelte & Vue.js
-
+- ✂️&nbsp;  ~~[Build a illustrators portfolio using Typescript] ~~(https://github.com/philsmithies/maelys_portfolio)
 <br>
 
 ## 📥 Project Highlights:
