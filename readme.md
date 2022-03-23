@@ -31,8 +31,7 @@
 <br>
 
 ## My Goals
-- 📥 ~~Build a Shopify application using Next.js and Typescript.~~ 
-- ✂️&nbsp;  ~~[Build a illustrators portfolio using Typescript] ~~(https://github.com/philsmithies/maelys_portfolio)
+- 📥 ~~Build a Shopify application using Next.js and Typescript.~~  
 <br>
 
 ## 📥 Project Highlights:
