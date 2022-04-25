@@ -25,7 +25,6 @@
 - ✂️&nbsp; I'm currently working on [building a illustrators portfolio using Typescript](https://github.com/philsmithies/maelys_portfolio)
 - 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
 - 🌱 &nbsp; Makers Alumni [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
-- 📧 &nbsp; You can reach me at **philsmithies@gmail.com**
 - 👤 &nbsp; [Portfolio](https://www.philsmithies.dev)
 
 <br>
