@@ -1,8 +1,8 @@
-## Hey, I'm Phil. Front End Engineer @ DC Brain 🌱 
+## Hey, I'm Phil. Front End Engineer @ DC Brain 
 
 <div align="left">
 
- <a href="https://uk.linkedin.com/in/phil-smithies">
+<a href="https://uk.linkedin.com/in/phil-smithies">
   <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
    
@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.codewars.com/users/phileeep">
-  <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/>
-</a>
-
 ## About Me
 
 - ✂️&nbsp; I'm currently working on [building a illustrators portfolio using Typescript](https://github.com/philsmithies/maelys_portfolio)
@@ -25,10 +21,6 @@
 - 🌱 &nbsp; Makers Alumni [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
 - 👤 &nbsp; [Portfolio](https://www.philsmithies.dev)
 
-<br>
-
-## My Goals
-- 📥 ~~Build a Shopify application using Next.js and Typescript.~~  
 <br>
 
 ## 📥 Project Highlights:
@@ -48,6 +40,7 @@
 <br>
 
 <div align="left">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
