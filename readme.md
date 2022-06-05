@@ -1,6 +1,4 @@
-## Hey, I'm Phil. Full Stack Dev. React, Typescript, GraphQL. 🌱 
-### Currently looking for remote collaboration opportunities throughout the UK and Europe.
-### Makers Academy Grad.
+## Hey, I'm Phil. Front End Engineer @ DC Brain 🌱 
 
 <div align="left">
 
