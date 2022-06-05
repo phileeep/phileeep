@@ -54,73 +54,11 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <div/>
-
-## 🛠 Technologies
-
-<table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Technologies</th>
-      <th>Testing Frameworks</th>
-      <th>Concepts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Javascript (ES6)</li>
-          <li>Typescript</li>
-          <li>HTML5</li>
-          <li>CSS</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>React</li>
-          <li>Next.js</li>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>Ruby on Rails</li>
-          <li>MongoDB</li>
-          <li>PostgreSQL</li>
-          <li>Git</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Jest</li>
-          <li>Jasmine</li>
-          <li>RSpec</li>
-          <li>Capybara</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>XP/Agile methodology</li>
-          <li>Mentoring</li>
-          <li>OOP</li>
-          <li>TDD</li>
-          <li>MVC Pattern</li>
-          <li>RESTful APIs</li>
-          <li>Remote working</li>
-          <li>Git workflow</li>
-          <li>Code review</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <!-- 
 ## Github Stats
