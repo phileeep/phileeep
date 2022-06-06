@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-## About Me
-
-- ✂️&nbsp; I'm currently working on [building a illustrators portfolio using Typescript](https://github.com/philsmithies/maelys_portfolio)
-- 🔨&nbsp; I’ve just worked on [an application to help photographers discover locations](https://github.com/philsmithies/shuttr)
-- 🌱 &nbsp; Makers Alumni [Makers Academy](https://makers.tech), my final project can be viewed [here](https://github.com/philsmithies/shuttr) 
-- 👤 &nbsp; [Portfolio](https://www.philsmithies.dev)
-
 <br>
 
 ## 📥 Project Highlights:
