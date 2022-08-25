@@ -18,13 +18,9 @@
 
 ## 📥 Project Highlights:
 
-<p align="left">
-  <a href=https://github.com/philsmithies/shuttr><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=shuttr&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Shuttr"></a>
-  <a href=https://github.com/philsmithies/chitter-next><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=chitter-next&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Chitter"></a>
-  <a href=https://github.com/philsmithies/maelys_portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=maelys_portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
-  <a href=https://github.com/philsmithies/sport-team><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=sport-team&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Sport Team"></a>
+<p>
+ <a href=https://github.com/philsmithies/maelys_portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=maelys_portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
  <a href=https://github.com/philsmithies/portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
-  <a href=https://github.com/philsmithies/gated-recs-next-js><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=gated-recs-next-js&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Gated Recs"></a>
 </p>
 
 <br/>
