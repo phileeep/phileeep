@@ -19,7 +19,6 @@
 ## 📥 Project Highlights:
 
 <p>
- <a href=https://github.com/philsmithies/maelys_portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=maelys_portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
  <a href=https://github.com/philsmithies/portfolio><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=philsmithies&repo=portfolio&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="Portfolio"></a>
 </p>
 
