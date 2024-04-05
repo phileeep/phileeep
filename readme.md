@@ -1,4 +1,4 @@
-## Hey, I'm Phil. Front End Engineer @ DC Brain 
+## Hey, I'm Phil.
 
 <div align="left">
 
